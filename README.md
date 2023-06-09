@@ -1,0 +1,1 @@
+# coin_fetch_store_api
